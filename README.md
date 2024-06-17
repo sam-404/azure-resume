@@ -1,2 +1,2 @@
 # azure-resume
-Azure Cloud Resume Challenge
+Building my resume using HTML, CSS and Azure infrastructure.
